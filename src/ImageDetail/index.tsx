@@ -587,7 +587,6 @@ export default class ImageDetail extends React.Component<Props> {
       isOpen,
       origin,
       source,
-      resizeMode ='contain',
       backgroundColor = '#000000',
       hideCloseButton,
       imageStyle,
